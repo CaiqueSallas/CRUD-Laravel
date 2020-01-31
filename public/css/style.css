@@ -1,0 +1,27 @@
+body{
+	background-image: url('img/flor.jg');	
+}
+.menu_um{
+	background-color: #df15f2;
+	background-image: linear-gradient(to right, #4174A2, #94d8fc);
+}
+.preço{
+	color:#578425;
+}
+.butão_com{
+	background-color: #8D325E;
+	color: white;
+}
+.cartão{
+	margin: 30px;
+	float: left;
+}
+.lista{
+	background-color: blue;
+	display: inline-block;
+
+}
+.jardins{
+	margin: 30px;
+}
+
